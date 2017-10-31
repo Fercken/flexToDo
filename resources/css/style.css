@@ -1,0 +1,17 @@
+/* Universal Styles */
+body {
+  margin: 0;
+  background-color: whitesmoke;
+  font-family: "Rock Salt", cursive;
+  text-align: center;
+}
+
+.secondary-background {
+  background-color: snow;
+}
+
+.tagline {
+  font-family: "Quicksand", sans-serif;
+  color: lightslategrey;
+  line-height: 125px;
+}
