@@ -15,3 +15,17 @@ body {
   color: lightslategrey;
   line-height: 125px;
 }
+
+/* Header */
+h1 {
+  margin: 0;
+  background-color: skyblue;
+  line-height: 100px;
+  color: khaki;
+}
+
+h2 {
+  margin: 10px;
+}
+
+/* App Container */
